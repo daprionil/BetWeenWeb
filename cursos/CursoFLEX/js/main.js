@@ -43,7 +43,7 @@ ItemList1.addEventListener('click',()=>{
 const ItemList2 = document.getElementById('ItemList2');
 
 ItemList2.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/2yJEkP2y4nY";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/iuKY6Lpj8HI";
 });
 
 
@@ -52,7 +52,7 @@ ItemList2.addEventListener('click',()=>{
 const ItemList3 = document.getElementById('ItemList3');
 
 ItemList3.addEventListener('click',()=>{
-    videoFrente.src='https://www.youtube-nocookie.com/embed/VYZiIoa-Rmg';
+    videoFrente.src='https://www.youtube-nocookie.com/embed/zNZreznzIIc';
 });
 
 
@@ -61,7 +61,7 @@ ItemList3.addEventListener('click',()=>{
 const ItemList4 = document.getElementById('ItemList4');
 
 ItemList4.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/evwqOwpLyQY";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/IcK3XPlGeDk";
 });
 
 
@@ -70,7 +70,7 @@ ItemList4.addEventListener('click',()=>{
 const ItemList5 = document.getElementById('ItemList5');
 
 ItemList5.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/qM75SlRIs6g";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/WKotpzBt74A";
 });
 
 
@@ -79,7 +79,7 @@ ItemList5.addEventListener('click',()=>{
 const ItemList6 = document.getElementById('ItemList6');
 
 ItemList6.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/db243B1t5EY";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/i22dhAEHJyo";
 });
 
 
@@ -88,7 +88,7 @@ ItemList6.addEventListener('click',()=>{
 const ItemList7 = document.getElementById('ItemList7');
 
 ItemList7.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/6cSiIc-wDZk";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/D9_Hb4kWA04";
 });
 
 
@@ -97,7 +97,7 @@ ItemList7.addEventListener('click',()=>{
 const ItemList8 = document.getElementById('ItemList8');
 
 ItemList8.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/Pgm966AnBp0";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/WHPznjVn2Fc";
 });
 
 
@@ -106,7 +106,7 @@ ItemList8.addEventListener('click',()=>{
 const ItemList9 = document.getElementById('ItemList9');
 
 ItemList9.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/7IFnGeqP6E4";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/WQtffSZLM2A";
 });
 
 
@@ -115,7 +115,7 @@ ItemList9.addEventListener('click',()=>{
 const ItemList10 = document.getElementById('ItemList10');
 
 ItemList10.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/C12Ivc9gUZo";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/a4Bi-ZdxwVE";
 });
 
 
@@ -124,7 +124,7 @@ ItemList10.addEventListener('click',()=>{
 const ItemList11 = document.getElementById('ItemList11');
 
 ItemList11.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/5DEEazRgAnQ";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/5OvrfE_O3Pc";
 });
 
 
@@ -133,7 +133,7 @@ ItemList11.addEventListener('click',()=>{
 const ItemList12 = document.getElementById('ItemList12');
 
 ItemList12.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/5VqpoBvpO08";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/zn_H0FBjjHM";
 });
 
 //Video 13
@@ -141,7 +141,7 @@ ItemList12.addEventListener('click',()=>{
 const ItemList13 = document.getElementById('ItemList13');
 
 ItemList13.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/Le_TZD7Xs3I";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/zm7Z3sxPziU";
 });
 
 //Video 14
@@ -149,7 +149,7 @@ ItemList13.addEventListener('click',()=>{
 const ItemList14 = document.getElementById('ItemList14');
 
 ItemList14.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/BuWgF6ArmzQ";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/NreKSWkTJK0";
 });
 
 //Video 15
@@ -157,7 +157,7 @@ ItemList14.addEventListener('click',()=>{
 const ItemList15 = document.getElementById('ItemList15');
 
 ItemList15.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/lvfE5gzK5zw";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/e8GuExqcVfc";
 });
 
 //Video 16
@@ -165,15 +165,7 @@ ItemList15.addEventListener('click',()=>{
 const ItemList16 = document.getElementById('ItemList16');
 
 ItemList16.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/ep75hlr0tB8";
-});
-
-//Video 17
-
-const ItemList17 = document.getElementById('ItemList17');
-
-ItemList17.addEventListener('click',()=>{
-    videoFrente.src = "https://www.youtube-nocookie.com/embed/PIZf5MSe8_I";
+    videoFrente.src = "https://www.youtube-nocookie.com/embed/70AWspAYUmE";
 });
 
 
