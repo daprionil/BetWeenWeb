@@ -605,6 +605,9 @@ MEDIA QUERIES
             transform: translateX(-40vw);
   }
   header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }

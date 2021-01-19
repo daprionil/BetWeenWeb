@@ -479,6 +479,8 @@ MEDIA QUERIES
     }
     //header
     header{
+        position: sticky;
+        top: 0;
         //Global Class
         li{
             display:block;
